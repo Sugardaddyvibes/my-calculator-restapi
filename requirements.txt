@@ -1,0 +1,7 @@
+Flask 
+Flask_Restful
+Flask-SQLAlchemy
+Flask-SQLAlchemy
+
+uwsgi
+psycopg2
